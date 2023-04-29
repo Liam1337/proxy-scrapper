@@ -1,4 +1,4 @@
-# Proxy Scrapper & Cecker
+# Proxy Scrapper & Checker
 
 **Educational Purposes ONLY!**
 I do not condone or encourage unauthorized or illegal use of this script and will not be held responsible for such use cases.
