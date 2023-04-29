@@ -17,7 +17,7 @@ Proxy Checker Using [checker-proxy]
 
 ```js
 // Node.JS Install all npm packages
-npm i
+npm i fs http https net socks checker-proxy colors path
 ```
 
 ### Usage
